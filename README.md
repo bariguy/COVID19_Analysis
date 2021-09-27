@@ -16,6 +16,8 @@ owid-covid-data.csv
 '''
 ### ipynb Files
 Following Jupyter Notebooks can be foundL 
-'''
-
-'''
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
