@@ -1,7 +1,7 @@
 # COVID19_Analysis
 
 ### Description
-This repository contains several attempts in analyzing global trends and interesting correlations between specific features with regards to COVID-19 Pandemic. 
+* This repository contains several attempts in analyzing global trends and interesting correlations between specific features with regards to COVID-19 Pandemic. 
 THe analysis was done using the following datasets. Detailed summaries of the datasets can be found below:
 
 ### Datasets
