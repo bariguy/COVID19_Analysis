@@ -10,14 +10,9 @@ THe analysis was done using the following datasets. Detailed summaries of the da
 -  _JHU Global Time Seires Data_: https://urldefense.com/v3/__https:/github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series__;!!Et4lQkQVNeVVgw!J2jlVl58nX8A_X5P618BQ0GLCYPOL96EmMeeCMxZeq4yYaU14BDSyMxxcgVX8AyTNw$
 
 Datasets above were converted into 
-'''
+```
 owid-covid-data.csv
 
-'''
+```
 ### ipynb Files
-Following Jupyter Notebooks can be foundL 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+Following Jupyter Notebooks can be found
