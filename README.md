@@ -22,7 +22,11 @@ for visual comprehension and familiarization.
 Following Jupyter Notebooks are found
 ```
 csv_to_excel.ipynb
-owid_analysis.ipynb
 playing_around.ipynb
+owid_analysis.ipynb
 time_series_analysis.ipynb
 ```
+_csv_to_excel.ipynb_ converts csv dataset into xlsx for visual comprehension.
+_playing_around.ipynb_ contains multiple attempts and trials in order to familiarize myself with the data
+_owid_analysis.ipynb_ contains detailed analysis with regards to _Our World in Data Global Data_. The analysis outlines interesting correlations between the the dataset's numerous features and COVID19 cases, globally. 
+_time_series_analysis.ipynb_ exhibits a glimpse of an attempt in anlayzing a time series of COVID cases for US. This analysis file was meant to back up the analysis concluded in the _owid_analysis.ipynb_.
