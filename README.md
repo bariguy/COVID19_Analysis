@@ -12,7 +12,17 @@ THe analysis was done using the following datasets. Detailed summaries of the da
 Datasets above were converted into 
 ```
 owid-covid-data.csv
-
+owid.xlsx
+time_series_covid19_confirmed_US.xlsx
+time_series_covid19_deaths_US.xlsx
 ```
+for visual comprehension and familiarization. 
+
 ### ipynb Files
-Following Jupyter Notebooks can be found
+Following Jupyter Notebooks are found
+```
+csv_to_excel.ipynb
+owid_analysis.ipynb
+playing_around.ipynb
+time_series_analysis.ipynb
+```
